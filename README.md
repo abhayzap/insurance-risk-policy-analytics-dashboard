@@ -37,24 +37,21 @@ Synthetic data split across five CSV files, modeled in Power BI:
 ## Dashboard Pages
 
 ### 1. Customer Demographics & Premium Trends
-![Demographics page]
-(images/How%20Do%20Customer%20Demographics%20Influence%20Insurance%20Choices.png)
+![Demographics page](images/How%20Do%20Customer%20Demographics%20Influence%20Insurance%20Choices.png)
 
 - Average premium is nearly flat across age groups (about 3,000 each).
 - Entrepreneurs, managers, and salespeople have the highest average premiums; lawyers and doctors the lowest.
 - Product mix by education level is fairly similar across groups.
 
 ### 2. Risk & Claims Insights
-![Risk and claims page]
-(images/Identify%20how%20customer%20risk%20levels%20impact%20insurance%20claims.png)
+![Risk and claims page](images/Identify%20how%20customer%20risk%20levels%20impact%20insurance%20claims.png)
 
 - Claim counts fall sharply in the 800+ credit score band.
 - Marriage and job change are the most frequent life events across all risk levels.
 - Risk label distribution by credit score band (see caveats below).
 
 ### 3. Communication Preferences
-![Communication page]
-(images/Screenshot%202026-10-04%20183931.png)
+![Communication page](images/Screenshot%202026-10-04%20183931.png)
 
 - Preferred channel by age group, preferred contact time, and language by gender.
 
